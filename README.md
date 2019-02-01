@@ -1,3 +1,3 @@
 # hello-world-test-repository
-my first repository
-This is my first rpository on github. I created this to make myself familir with github.
+
+This is my first repository on github. I created it to make myself familiar with github.
